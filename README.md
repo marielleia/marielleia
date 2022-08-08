@@ -18,7 +18,7 @@
 </div>
 
 <h6> Backend </h6> 
-<div>  
+<div> 
 <img style="margin: 10px" src="https://img.icons8.com/color/344/typescript.png" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/344/postgreesql.png" alt="PostgreSQL" height="50" />  
@@ -28,8 +28,11 @@
 </div>
 
 <h6> Frameworks </h6>
-<img style="margin: 10px" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/344/external-Bootstrap-social-media-those-icons-lineal-color-those-icons.png" alt="Bootstrap" height="50" />
+<div> 
 <img style="margin: 10px" src="https://img.icons8.com/color/344/material-ui.png" alt="Material UI" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/344/external-Bootstrap-social-media-those-icons-lineal-color-those-icons.png" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/color/344/tailwindcss.png" alt="Tailwind CSS" height="50" />
+</div>
 <br>
 <br>
 
