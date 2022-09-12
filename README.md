@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I am Marielle! 🌞 </h1>
 
 <h3> About me </h3> 
-	<ul> 👩‍💻 A Junior Fullstack Developer, highly-experienced in customer service who is looking to solve customer's problems with code and design.  </ul>
+	<ul> 👩‍💻 A Junior Fullstack Developer who is looking to solve problems with code and design.  </ul>
 	<ul> 🌱 I currently work with JS and React JS.</ul>
 	<ul> 💡 I have a great interest in UI/UX and design in general.</ul>
 	<ul> 💗 Food, Art, Cats and Travels.</ul>
