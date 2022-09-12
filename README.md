@@ -1,8 +1,8 @@
 <h1 align="center"> Hi 👋, I am Marielle! 🌞 </h1>
 
 <h3> About me </h3> 
-	<ul> 👩‍💻 A Full Stack Web Developer student with Hospitality and Tourism background </ul>
-	<ul> 🌱 I'm currently learning and practicing JS and React JS.</ul>
+	<ul> 👩‍💻 A Junior Fullstack Developer, highly-experienced in customer service who is looking to solve customer's problems with code and design.  </ul>
+	<ul> 🌱 I currently work with JS and React JS.</ul>
 	<ul> 💡 I have a great interest in UI/UX and design in general.</ul>
 	<ul> 💗 Food, Art, Cats and Travels.</ul>
 <br>
