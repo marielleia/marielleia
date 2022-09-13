@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I am Marielle! 🌞 </h1>
 <p align="center">
-![](https://komarev.com/ghpvc/?username=your-github-marielleia)
+![](https://komarev.com/ghpvc/?username=marielleia)
 </p>
 
 <h3> About me </h3> 
