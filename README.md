@@ -1,4 +1,7 @@
 <h1 align="center"> Hi 👋, I am Marielle! 🌞 </h1>
+<p align="center">
+![](https://komarev.com/ghpvc/?username=your-github-marielleia)
+</p>
 
 <h3> About me </h3> 
 	<ul> 👩‍💻 A Junior Fullstack Developer who is looking to solve problems with code and design.  </ul>
