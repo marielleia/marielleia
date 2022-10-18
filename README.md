@@ -24,8 +24,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 </div>
 
-
-<h6> Backend </h6> 
+<h6> Database </h6> 
 <div>
 <img style="margin: 10px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://img.icons8.com/color/344/postgreesql.png" alt="PostgreSQL" height="50" />  
