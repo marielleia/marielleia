@@ -7,35 +7,13 @@
 	<ul> 💗 Food, Art, Cats and Travels.</ul>
 <br>
 
-<h3> My Skill Set </h3> 
-<h6> Frontend </h6> 
-<div>     
-<img style="margin: 10px" src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/344/css3.png" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/344/react-native.png" alt="React" height="50" /> 
-<img style="margin: 10px" src="https://img.icons8.com/color/344/git.png" alt="Git" height="50" />  
-</div>
-
-<h6> Backend </h6> 
-<div> 
-<img style="margin: 10px" src="https://img.icons8.com/color/344/typescript.png" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://img.icons8.com/fluency/344/node-js.png" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-</div>
-
-<h6> Database </h6> 
+<h3> My Projects </h3>
 <div>
-<img style="margin: 10px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/344/postgreesql.png" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://img.icons8.com/color/344/mysql-logo.png" alt="mySQL" height="50" />  
-</div>
-
-<h6> Frameworks </h6>
-<div> 
-<img style="margin: 10px" src="https://img.icons8.com/color/344/material-ui.png" alt="Material UI" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/344/external-Bootstrap-social-media-those-icons-lineal-color-those-icons.png" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://img.icons8.com/color/344/tailwindcss.png" alt="Tailwind CSS" height="50" />
+	<a href="https://github.com/marielleia/veibi_music_app">Veibi Music App</a><br>
+	<a href="https://github.com/marielleia/clon-lastfm">Last.fm Clone</a><br>
+	<a href="https://github.com/marielleia/InAdaWeCode">InAdaWeCode </a><br>
+	<a href="https://github.com/marielleia/econotravel">Econotravel </a><br>
+	<a href="https://github.com/AYNI-Project/ayni-project">AYNI Project</a>
 </div>
 
 <br>
