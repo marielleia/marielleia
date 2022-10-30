@@ -1,8 +1,13 @@
-<h1 align="center"> Hi 👋, I am Marielle! 🌞 </h1>
+<div id="header" align="center">
+	<img src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e470vyq6zlkmmiutajkx4m2y7rex0uq18m7v4q8qekz&rid=giphy.gif&ct=g" alt="Hello World" width="250"/>
+	<h1> Hola! This is Marielle 🙋‍♀️</h1>
+	<p> Welcome to my GitHub 🌞</p>
+</div>
+
 
 <h3> About me </h3> 
-	<ul> 👩‍💻 A Junior Fullstack Developer who is looking to solve problems with code and design.  </ul>
-	<ul> 🌱 I currently work with JS and React JS.</ul>
+	<ul> 👩‍💻 A Junior Fullstack Web Developer who is looking to solve problems with code and design.  </ul>
+	<ul> 🌱 I mostly work with JS and React JS.</ul>
 	<ul> 💡 I have a great interest in UI/UX and design in general.</ul>
 	<ul> 💗 Food, Art, Cats and Travels.</ul>
 <br>
