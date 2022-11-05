@@ -6,14 +6,17 @@
 
 
 <h3> About me </h3> 
-	<ul> 👩‍💻 A Junior Fullstack Web Developer who is looking to solve problems with code and design.  </ul>
-	<ul> 🌱 I mostly work with JS and React JS.</ul>
-	<ul> 💡 I have a great interest in UI/UX and design in general.</ul>
-	<ul> 💗 Food, Art, Cats and Travels.</ul>
+
+👩‍💻 A Junior Fullstack Web Developer who is looking to solve problems with code and design. <br>
+🌱 I mostly work with JS and React JS. <br>
+💡 I have a great interest in UI/UX and design in general. <br>
+💗 Food, Art, Cats and Travels. <br>
+
 <br>
 
 <h3> My Projects </h3>
 <div>
+	<a href="https://github.com/marielleia/price-plans">🏷️ Price Plan: Jump2Digital Hackaton Participation</a><br>
 	<a href="https://github.com/marielleia/veibi_music_app">🍍 Veibi Music App</a><br>
 	<a href="https://github.com/marielleia/clon-lastfm">🎵 Last.fm Clone</a><br>
 	<a href="https://github.com/marielleia/InAdaWeCode">👩‍💻 InAdaWeCode </a><br>
