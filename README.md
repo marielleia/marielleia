@@ -1,7 +1,11 @@
 <div id="header" align="center">
 	<img src="https://media0.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e470vyq6zlkmmiutajkx4m2y7rex0uq18m7v4q8qekz&rid=giphy.gif&ct=g" alt="Hello World" width="250"/>
+
+![Visitor Count](https://profile-counter.glitch.me/{marielleia}/count.svg)
 	<h1> Hola! This is Marielle 🙋‍♀️</h1>
 	<p> Welcome to my GitHub 🌞</p>
+
+
 </div>
 
 
