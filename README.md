@@ -21,11 +21,11 @@
 <h3> My Projects </h3>
 <div>
 	<a href="https://github.com/marielleia/price-plans">🏷️ Price Plan: Jump2Digital 2022 Online Hackaton Participation</a> (Latest project)<br>
+	<a href="https://github.com/AYNI-Project/ayni-project">🤝 AYNI Project</a><br>
 	<a href="https://github.com/marielleia/veibi_music_app">🍍 Veibi Music App</a><br>
-	<a href="https://github.com/marielleia/clon-lastfm">🎵 Last.fm Clone</a><br>
 	<a href="https://github.com/marielleia/InAdaWeCode">👩‍💻 InAdaWeCode </a><br>
+	<a href="https://github.com/marielleia/clon-lastfm">🎵 Last.fm Clone</a><br>
 	<a href="https://github.com/marielleia/econotravel">🗺️ Econotravel </a><br>
-	<a href="https://github.com/AYNI-Project/ayni-project">🤝 AYNI Project</a>
 </div>
 
 <br>
